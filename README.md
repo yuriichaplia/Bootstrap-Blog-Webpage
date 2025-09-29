@@ -1,11 +1,17 @@
 # Bootstrap Blog Page  
-A simple blog web application that was made using HTML, CSS & JS (mainy Bootstrap) and Python Flask.  
-The web app consists of three pages: home, about and contact.  
-The home page contains posts and social media links. The about page - information about the creator of blog page. The contact page contains contact form.   
 
-#### You may replace the information on the blog page with your own.  
-#### To replace posts' information use [API NPoint IO](https://www.npoint.io/).  
-The structure of the JSON bin should be:
+A simple blog web application built with **HTML, CSS, JavaScript (mainly Bootstrap)** and **Python Flask**.  
+
+The app consists of three pages:  
+- **Home** – displays blog posts and social media links.  
+- **About** – provides information about the creator of the blog.  
+- **Contact** – includes a contact form.  
+
+#### Customization  
+You can replace the default blog content with your own.  
+To update posts, use [API NPoint IO](https://www.npoint.io/).  
+
+The structure of the JSON bin should follow this format:  
 
 ```text
 [] JSON
@@ -20,3 +26,4 @@ The structure of the JSON bin should be:
     + body : "text here" 
     + title : "some text here"
     + subtitle : "text here"
+
