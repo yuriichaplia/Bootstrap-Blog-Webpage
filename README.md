@@ -3,9 +3,9 @@
 A simple blog web application built with **HTML, CSS, JavaScript (mainly Bootstrap)** and **Python Flask**.  
 
 The app consists of three pages:  
-- **Home** – displays blog posts and social media links.  
-- **About** – provides information about the creator of the blog.  
-- **Contact** – includes a contact form.  
+- **Home** - displays blog posts and social media links.  
+- **About** - provides information about the creator of the blog.  
+- **Contact** - includes a contact form.  
 
 #### Customization  
 You can replace the default blog content with your own.  
